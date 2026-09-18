@@ -1,8 +1,5 @@
 namespace TaskManagementApi.Models;
 
-/// <summary>
-/// Модель задачи (Task) — как описано в задании лабораторной работы.
-/// </summary>
 public class TaskItem
 {
     public int Id { get; set; }
