@@ -107,14 +107,11 @@ PUT обновляет (полностью заменяет) существую�
 - **404 Not Found** — запрошенный ресурс не найден на сервере.
 ## Скриншоты
 
-**Список методов в Swagger**
-![Список методов](screenshots/1-methods.png)
-
-**Выполнение POST**
-![POST](screenshots/2-post.png)
-
-**Результат GET**
-![GET](screenshots/3-get.png)
-
-**Выполнение PUT/DELETE**
-![PUT или DELETE](screenshots/4-put-delete.png)
+![Скриншот 1](screenshots/2026-09-18_13-25-06.png)
+![Скриншот 2](screenshots/2026-09-18_13-26-50.png)
+![Скриншот 3](screenshots/2026-09-18_13-27-11.png)
+![Скриншот 4](screenshots/2026-09-18_13-28-52.png)
+![Скриншот 5](screenshots/2026-09-18_13-29-03.png)
+![Скриншот 6](screenshots/2026-09-18_13-34-24.png)
+![Скриншот 7](screenshots/2026-09-18_13-34-38.png)
+![Скриншот 8](screenshots/2026-09-18_13-35-40.png)
