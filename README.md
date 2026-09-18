@@ -105,3 +105,16 @@ PUT обновляет (полностью заменяет) существую�
 - **400 Bad Request** — сервер не может обработать запрос из-за
   некорректных данных со стороны клиента.
 - **404 Not Found** — запрошенный ресурс не найден на сервере.
+## Скриншоты
+
+**Список методов в Swagger**
+![Список методов](screenshots/1-methods.png)
+
+**Выполнение POST**
+![POST](screenshots/2-post.png)
+
+**Результат GET**
+![GET](screenshots/3-get.png)
+
+**Выполнение PUT/DELETE**
+![PUT или DELETE](screenshots/4-put-delete.png)
